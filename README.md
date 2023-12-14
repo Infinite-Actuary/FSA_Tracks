@@ -15,6 +15,6 @@
 source: `https://www.soa.org/education/exam-req/edu-fsa-req`
 
 ### 📚 [FSA Exam Book List](https://www.soa.org/education/exam-req/syllabus-study-materials/exam-book-list)
-
+### 📒 [Actuarial Books](https://www.soa.org/publications/books/)
 ### 📖 [Actuarial Glossary](https://www.soa.org/4a537f/globalassets/assets/files/edu/actuarial-glossary.pdf)
 
